@@ -1,4 +1,4 @@
-,Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+num,Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
 0,1,wiisports,Wii,2006.0,Sports,Nintendo,41.49,29.02,3.77,8.46,82.74
 1,2,supermariobros,NES,1985.0,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
 2,3,mariokartwii,Wii,2008.0,Racing,Nintendo,15.85,12.88,3.79,3.31,35.82
