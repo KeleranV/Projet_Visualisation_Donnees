@@ -23,3 +23,10 @@ for i in range(len(namesSteam)):
         if char not in dictionary: namesSteam[i] = namesSteam[i].replace(char, "")
     namesSteam[i] = namesSteam[i].lower()
 print(namesSteam[0])
+for i in range(len(nameVG)):
+    for char in nameVG[i]:
+        if char not in dictionary: nameVG[i] = nameVG[i].replace(char, "")
+    nameVG[i] = nameVG[i].lower()
+print(nameVG[0])
+steam.to_csv("steam_edit.csv")
+vgsales.to_csv("vgsales_edit.csv")
