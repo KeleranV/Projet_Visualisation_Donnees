@@ -10,7 +10,7 @@ Developer;City;Administrative division;Country;Est.;Notable games, series or fra
 38 Studios;Providence;Rhode Island;United States;2006;Kingdoms of Amalur: Reckoning;"Defunct in 2012; their assets were acquired by THQ Nordic"
 3D Realms;Garland;Texas;United States;1987;Duke Nukem;
 42 Entertainment;Pasadena;California;United States;1993;I Love Bees;
-4A Games;KyivSliema;;UkraineMalta;20052014;Metro series;"They moved its headquarters from Ukraine to Malta; acquired by Embracer Group in 2020[1]"
+4A Games;KyivSliema;;Ukraine;20052014;Metro series;"They moved its headquarters from Ukraine to Malta; acquired by Embracer Group in 2020[1]"
 5th Cell;Bellevue;Washington;United States;2003;Scribblenauts series;
 989 Studios;Foster City;California;United States;1995;Twisted Metal III–4Jet Moto 2124;Division of Sony Computer Entertainment America
 Acclaim Entertainment;Glen Cove;New York;United States;1987;;"Developer/Publisher; declared Bankruptcy August 2004"
@@ -403,7 +403,7 @@ Neversoft;Woodland Hills;California;United States;1994;Guitar Hero seriesTony Ha
 Nevosoft;St. Petersburg;;Russia;2002;;
 New World Computing;Agoura Hills;California;United States;1984;Might and Magic franchise Heroes of Might and Magic series;
 New World Interactive;Denver;Colorado;United States;2010;Insurgency;Acquired by Embracer Group in 2020[1]
-NexonNexon Korea;TokyoSeoul;;JapanSouth Korea;20021994;MapleStoryMabinogiVindictusAtlantica Online;"Online video game developer, publisher and distributor; moved its headquarters from Korea to Japan."
+NexonNexon Korea;TokyoSeoul;;Japan;20021994;MapleStoryMabinogiVindictusAtlantica Online;"Online video game developer, publisher and distributor; moved its headquarters from Korea to Japan."
 Next Level Games;Vancouver;British Columbia;Canada;2002;Super Mario StrikersLuigi's Mansion: Dark MoonLuigi's Mansion 3Spider-Man: Friend or Foe;
 Niantic;San Francisco;California;United States;2010;IngressPokémon Go;
 Nibris;Kraków;;Poland;2000;;
@@ -495,7 +495,7 @@ Revolution Software;York;England;United Kingdom;1990;Broken Sword seriesBeneath 
 Riot Games;Santa Monica;California;United States;2006;League of Legends Legends of Runeterra Valorant;Acquired by Tencent in 2011
 Rising Star Games;Luton;England;United Kingdom;2004;;Acquired by Thunderful in 2018
 Robot Entertainment;Plano;Texas;United States;2009;Orcs Must Die! seriesHero Academy seriesAge of Empires Online;
-Rockstar Games;New York CityBangaloreLeedsLincolnLondonBallardvaleEdinburghCarlsbadOakville;New YorkKarnatakaEnglandScotlandMassachusettsCaliforniaOntario;United States;199820162004200220052008200220021999;Grand Theft Auto franchiseManhunt seriesMidnight Club seriesRed Dead seriesBully;"Developer/publisher; owned by Take-Two Interactive"
+Rockstar Games;New York CityBangaloreLeedsLincolnLondonBallardvaleEdinburghCarlsbadOakville;New YorkKarnatakaEnglandScotlandMassachusettsCaliforniaOntario;United States;1.9982E+35;Grand Theft Auto franchiseManhunt seriesMidnight Club seriesRed Dead seriesBully;"Developer/publisher; owned by Take-Two Interactive"
 Rocksteady Studios;London;England;United Kingdom;2005;Batman: Arkham seriesSuicide Squad: Kill the Justice League;Subsidiary of Warner Bros. Interactive Entertainment
 Robinson Technologies;Hiroshima;;Japan;1989;Dink Smallwood;
 Rovio Entertainment;Espoo;;Finland;2003;Angry Birds franchise;Publisher, developer and distributor
@@ -506,7 +506,7 @@ Saber Interactive;Millburn;New Jersey;United States;2001;World War Z;Acquired by
 Sand Grain Studios;Bucharest;;Romania;2002;Cabela's Big Game Hunter: 2004 Season;Dissolved in 2009[32]
 Sandlot;Tokyo;;Japan;2001;Robot Alchemic DriveEarth Defense Force seriesZangeki no Reginleiv;Formed by former employees of Human Entertainment
 Sanzaru Games;Foster City;California;United States;2006;Sly Cooper: Thieves in TimeSonic Boom: Shattered CrystalSonic Boom: Fire & Ice;Acquired by Facebook in 2020.[33]
-Sir-Tech;Ogdensburg;New York;United StatesCanada;1979;Wizardry seriesJagged Alliance series;
+Sir-Tech;Ogdensburg;New York;United States;1979;Wizardry seriesJagged Alliance series;
 Schell Games;Pittsburgh;Pennsylvania;United States;2002;I Expect You To Die;Developer and publisher
 SCS Software;Prague;;Czech Republic;1997;18 Wheels of Steel seriesEuro Truck Simulator series;
 Sega;Ota, Tokyo,San Francisco;California;United States;1960;Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series;"Third-party (Formerly first-party) developer, publisher, and former console manufacturer; subsidiary of Sega Sammy Holdings"
@@ -524,7 +524,7 @@ SIE London Studio;London;England;United Kingdom;2002;SingStar series;Division of
 SIE San Diego Studio;San Diego;California;United States;2001;MLB: The Show series;Division of SIE Worldwide Studios
 SIE Santa Monica Studio;Los Angeles;California;United States;1999;God of War series;Division of SIE Worldwide Studios
 SCE Studio Liverpool;Liverpool;England;United Kingdom;1984;Wipeout seriesFormula One seriesColony Wars series;"Former Division of SIE Worldwide Studios; shut down by Sony on August 22, 2012"
-SIE Worldwide Studios;Tokyo, Fukuoka, Santa Monica, Los Angeles, San Diego, Bend, Amsterdam, London, Guildford, Cambridge;California, Washington, Oregon, England;Japan, United States, Netherlands, United Kingdom;2005;;A group of first-party development studios and subsidiaries owned by Sony Interactive Entertainment
+SIE Worldwide Studios;Tokyo, Fukuoka, Santa Monica, Los Angeles, San Diego, Bend, Amsterdam, London, Guildford, Cambridge;California, Washington, Oregon, England;Japan;2005;;A group of first-party development studios and subsidiaries owned by Sony Interactive Entertainment
 SingleTrac;Salt Lake City;Utah;United States;1994;Twisted Metal 1–2Jet Moto 1–2Warhawk (1995);Defunct in 2000
 Shengqu Games;Shanghai;;China;1999;;Acquired by Zhejiang Century Huatong in 2017
 Sherman3D;Petaling Jaya;;Malaysia;2003;Alpha Kimori;
@@ -609,7 +609,7 @@ The Coalition;Vancouver;;Canada;2010;Gears of War series;Subsidiary of Microsoft
 The Farm 51;Gliwice;;Poland;2005;Get Even;
 The Initiative;Santa Monica;California;United States;2018;;Subsidiary of Microsoft Studios
 THQ;Agoura Hills;California;United States;1989;;"Developer/publisher; defunct in 2013; their assets were acquired by Nordic Games, 505 Games, or Gearbox Software[41]"
-THQ Nordic;ViennaKarlstad;;AustriaSweden;2011;SpellForce 3;Developer/publisher
+THQ Nordic;ViennaKarlstad;;Austria;2011;SpellForce 3;Developer/publisher
 Three Fields Entertainment;Petersfield;England;United Kingdom;2014;Danger Zone seriesDangerous Driving series;Founded by the founders of Criterion Games
 Three Rings Design;San Francisco;California;United States;2001;Doctor Who: Worlds in Time;
 TimeGate Studios;Sugar Land;Texas;United States;1998;Kohan seriesSection 8 series;
@@ -637,7 +637,7 @@ Turtle Rock Studios;Lake Forest;California;United States;2002;Left 4 Dead series
 Two Point Studios;Surrey;England;United Kingdom;2016;Two Point Hospital;"Formed by former employees of Lionhead Studios; acquired by Sega in 2019"
 Two Tribes;Amersfoort;;Netherlands;2000;Toki Tori;
 Typhoon Games (HK);Hong Kong SAR;;China;2001;;Subsidiary of Typhoon Entertainment (Asia)
-Ubisoft;Montreuil-sous-Bois;;Europe;1986;Rayman seriesAssassin's Creed seriesJust Dance seriesPrince of Persia seriesFar Cry seriesZombiUTom Clancy's Ghost Recon seriesTom Clancy's Rainbow Six seriesTom Clancy's Splinter Cell seriesBeyond Good & Evil series;Developer/publisher
+Ubisoft;Montreuil-sous-Bois;;France;1986;Rayman seriesAssassin's Creed seriesJust Dance seriesPrince of Persia seriesFar Cry seriesZombiUTom Clancy's Ghost Recon seriesTom Clancy's Rainbow Six seriesTom Clancy's Splinter Cell seriesBeyond Good & Evil series;Developer/publisher
 Ubisoft Blue Byte;Düsseldorf;;Germany;1988;Battle Isle seriesThe Settlers seriesAnno series;Acquired by Ubisoft
 Ubisoft Reflections;Newcastle upon Tyne;England;United Kingdom;1984;Driver seriesDestruction Derby series;Acquired by Ubisoft
 UEP Systems;Tokyo;;Japan;1985;Cool Boarders series;Defunct in 2001
@@ -660,7 +660,7 @@ Vostok Games;Kyiv;;Ukraine;2012;Survarium;Vostok Games was founded in March 2012
 VoxelStorm;Manchester;England;United Kingdom;2012;AdvertCity;
 Wahoo Studios;Orem;Utah;United States;2001;;
 Warhorse Studios;Prague;;Czech Republic;2011;Kingdom Come: Deliverance;Acquired by Koch Media in 2019
-Wargaming;NicosiaMinsk;;CyprusBelarus;1998;World of Tanks;Developer/publisher
+Wargaming;NicosiaMinsk;;Cyprus;1998;World of Tanks;Developer/publisher
 Wargaming Saint Petersburg;Saint Petersburg;;Russia;1991;World of Warships;Subsidiary of Wargaming
 Wargaming Seattle;Redmond;Washington;United States;1998;Supreme Commander;Subsidiary of Wargaming
 Warner Bros. Interactive Entertainment;Chicago;Illinois;United States;1988;Batman: Arkham seriesLego seriesF.E.A.R. seriesMortal Kombat series;Division of Warner Bros. Entertainment which is a subsidiary of WarnerMedia
@@ -706,7 +706,7 @@ Basilisk Games;Indianapolis;Indiana;United States;;Eschalon series;
 The Behemoth[1];San Diego;California;United States;;Alien HominidCastle CrashersBattleBlock TheaterPit People;
 Benjamin Rivers;Toronto;Ontario;Canada;;;
 Big Finish Games;Salt Lake City;Utah;United States;;Three Cards to Midnight;
-Blitz Games Studios;Warwickshire;;United Kingdom (England);;Powerup ForeverDroplitzInvincible Tiger: The Legend of Han Tao;
+Blitz Games Studios;Warwickshire;;United Kingdom;;Powerup ForeverDroplitzInvincible Tiger: The Legend of Han Tao;
 Blue Fang Games;Waltham;Massachusetts;United States;;Zoo Tycoon series;
 Bohemia Interactive Studio;Prague;;Czech Republic;;Operation Flashpoint: Cold War CrisisArmA: Armed AssaultTake On MarsDayZ;
 Boomzap Entertainment;Singapore;;Singapore;;;
@@ -714,7 +714,7 @@ Bubble Gum Interactive;Sydney;;Australia;;Little Space Heroes;
 Capybara Games[1][2];Toronto;Ontario;Canada;;Superbrothers: Sword & Sworcery EPCritter CrunchMight & Magic: Clash of HeroesSuper Time Force;
 CBE Software;Brno;;Czech Republic;;J.U.L.I.A.J.U.L.I.A. Among the Stars;
 CCP Games;Reykjavík;;Iceland;;Eve Online;
-The Chinese Room[2];Brighton;;United Kingdom (England);;Dear EstherAmnesia: A Machine for Pigs;
+The Chinese Room[2];Brighton;;United Kingdom;;Dear EstherAmnesia: A Machine for Pigs;
 Choice Provisions;Santa Cruz;California;United States;;Bit.Trip series;Formerly Gaijin Games
 Christine Love;Toronto;Ontario;Canada;;Digital: A Love Storydon't take it personally, babe, it just ain't your storyAnalogue: A Hate Story;
 Christopher Howard Wolf;Rocky Point;North Carolina;United States;;DragonSpiresI'm O.K – A Murder Simulator'';
@@ -728,7 +728,7 @@ Compulsion Games;Montreal;Quebec;Canada;;Contrast We Happy Few;
 Craneballs Studio;Ostrava;;Czech Republic;;Planet Nomads;
 Croteam;Zagreb;;Croatia;;Football GlorySerious Sam series The Talos Principle;
 Crytek Black Sea;Sofia;;Bulgaria;;Knights of HonorWorldShift;Formerly Black Sea Studios
-Curve Digital;London;;United Kingdom (England);;Fluidity series Stealth Inc. series;
+Curve Digital;London;;United Kingdom;;Fluidity series Stealth Inc. series;
 Cypronia;Michalovce;;Slovakia;;State of War;Formerly Cypron Studios
 Daedalic Entertainment;Hamburg;;Germany;;Edna & Harvey seriesThe Whispered WorldDeponia seriesThe Dark Eye seriesThe Night of the Rabbit;
 Datcroft Games;London;England;United Kingdom;;Fragoria;
@@ -747,14 +747,14 @@ Edmund McMillen[2];Santa Cruz;California;United States;;GishSuper Meat BoyAether
 Elixir Studios;London;England;United Kingdom;;Republic: The RevolutionEvil Genius;
 Eurocom;Derby;;United Kingdom;;Sphinx and the Cursed MummyBatman BeginsPirates of the Caribbean: At World's EndVancouver 2010: The Official Videogame of the Winter Olympic GamesGoldenEye 007;
 Evony, LLC;Guangzhou;;China;;Evony: Age I;
-Facepunch Studios;Walsall;;United Kingdom (England);;Garry's ModRust;
-Firefly Studios;London;;United Kingdom (England);;StrongholdStronghold 2Space ColonyStronghold 3Dungeon HeroCiv City: RomeStronghold Kingdoms;
+Facepunch Studios;Walsall;;United Kingdom;;Garry's ModRust;
+Firefly Studios;London;;United Kingdom;;StrongholdStronghold 2Space ColonyStronghold 3Dungeon HeroCiv City: RomeStronghold Kingdoms;
 Flying Wild Hog;Warsaw;;Poland;;Hard Reset Shadow Warrior series;
 Freebird Games;Markham;Ontario;Canada;;To the Moon;
 Frictional Games;Helsingborg;;Sweden;;Penumbra seriesAmnesia: The Dark Descent SOMA;
 Frima;Quebec City;Quebec;Canada;;ChariotZombie Tycoon;
 Frogwares;Kyiv;;Ukraine;;Journey to the Center of the EarthSherlock Holmes: Secret of the Silver EarringSherlock Holmes: The AwakenedDracula: Origin;
-Frontier Developments;Cambridge;;United Kingdom (England);;Frontier: Elite IILostWindsLostWinds: Winter of the Melodias;
+Frontier Developments;Cambridge;;United Kingdom;;Frontier: Elite IILostWindsLostWinds: Winter of the Melodias;
 The Fullbright Company[2];Portland;Oregon;United States;;Gone Home;
 Games Distillery;Bratislava;Bratislava Region;Slovakia;;Aqua;
 GarageGames;Eugene;Oregon;United States;;Marble Blast Ultra;
@@ -797,7 +797,7 @@ Mega Cat Studios;Pittsburgh;Pennsylvania;United States;;Bite the BulletLog Jamme
 Messhof;Los Angeles;California;United States;;Nidhogg;
 MidBoss;San Francisco;California;United States;;Read Only Memories;
 Mighty Rabbit Studios;Cary;North Carolina;United States;;Saturday Morning RPGBreach & ClearBreach & Clear: Deadline;
-Mode 7 Games;Brighton;East Sussex;England;;Frozen Synapse seriesTokyo 42;
+Mode 7 Games;Brighton;East Sussex;United Kingdom;;Frozen Synapse seriesTokyo 42;
 Mojang;Stockholm;;Sweden;;MinecraftCobaltScrolls;
 Molleindustria;Turin;;Italy;;Faith FighterPhone Story;
 Moon Studios;Vienna;;Austria;;Ori and the Blind ForestOri and the Will of the Wisps;
@@ -813,7 +813,7 @@ Parallax Studio;Nixa;Missouri;United States;;Darkstar: The Interactive Movie;
 PixelJAM Games;;;United States;;Dino Run;
 Playdead[1];Copenhagen;;Denmark;;LimboInside;
 Polytron Corporation[1];Montreal;;Canada;;Fez;
-Puppy Games;Notting Hill;;United Kingdom (England);;Revenge of the TitansDroid Assault;
+Puppy Games;Notting Hill;;United Kingdom;;Revenge of the TitansDroid Assault;
 Positech Games;;;United Kingdom;;DemocracyGratuitous Space Battles;
 Private Moon Studios;;;Hungary;;AGON series Yoomurjak's Ring;
 Provox Games;Zagreb;;Croatia;;Space Force: Rogue Universe;
@@ -826,7 +826,7 @@ Renegade Kid;Austin;Texas;United States;;Mutant Mudds;
 Daniel Remar;;;Sweden;;Iji;
 Relentless Software;Brighton;;United Kingdom;;Buzz!Blue Toad Murder Files;
 Renegade Kid;Austin;Texas;United States;;Dementium: The WardMoonDementium II;
-Roll7;London;;United Kingdom (England);;OlliOlli OlliOlli2: Welcome to Olliwood Not a Hero;
+Roll7;London;;United Kingdom;;OlliOlli OlliOlli2: Welcome to Olliwood Not a Hero;
 Ronimo Games[1];Utrecht;;Netherlands;;de BlobSwords & SoldiersAwesomenauts;
 Rovio Entertainment;Espoo;;Finland;;Angry Birds;
 S2 Games;Rohnert Park;California;United States;;Savage: The Battle for NewerthSavage 2: A Tortured SoulHeroes of Newerth;
@@ -843,7 +843,7 @@ Ska Studios;Marcy;New York;United States;;Survival Crisis ZThe Dishwasher: Dead 
 Skygoblin;Gothenburg;;Sweden;;The Journey Down;
 Soldak Entertainment;Dallas;Texas;United States;;Depths of PerilKivi's UnderworldDin's Curse;
 Spiderweb Software;Seattle;Washington;United States;;Exile seriesAvernum seriesGeneforge seriesNethergate;
-Splash Damage;London;;United Kingdom (England);;Wolfenstein: Enemy TerritoryEnemy Territory: Quake Wars;
+Splash Damage;London;;United Kingdom;;Wolfenstein: Enemy TerritoryEnemy Territory: Quake Wars;
 Squad;Mexico City;;Mexico;;Kerbal Space Program;
 Stardock;Plymouth;Michigan;United States;;Galactic Civilizations seriesElemental seriesThe Political Machine series;
 Storm Impact;Glenview;Illinois;United States;;TaskMaker;
@@ -856,7 +856,7 @@ Tale of Tales;Ghent;;Belgium;;The Endless ForestThe GraveyardThe Path;
 TaleWorlds;Ankara;;Turkey;;Mount&BladeMount&Blade: WarbandMount&Blade: With Fire & Sword;
 Team Shanghai Alice;Ebina;Kanagawa;Japan;;Touhou Project;
 Telltale Games;San Rafael;California;United States;;Sam & Max episodic series The Walking Dead seriesTales from the BorderlandsThe Wolf Among UsGame of Thrones Minecraft: Story Mode;
-Terry Cavanagh;London;;United Kingdom (England);;VVVVVSuper Hexagon;
+Terry Cavanagh;London;;United Kingdom;;VVVVVSuper Hexagon;
 thatgamecompany[1];Los Angeles;California;United States;;flOwCloudFlowerJourney;
 Three Rings Design;San Francisco;California;United States;;Yohoho! Puzzle PiratesBang! HowdyWhirled;
 Tiger Style[2];Austin;Texas;United States;;Waking MarsSpider: The Secret of Bryce ManorSpider: Rite of the Shrouded Moon;
