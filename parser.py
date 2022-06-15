@@ -7,7 +7,7 @@ vgsales = pd.read_csv('vgsales.csv')
 
 #lettres de l'alphabet, minuscules et majuscules
 #permettra de faire des tests pour retirer les caractères
-dictionary = 'qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'
+dictionary = 'qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890'
 
 #récupération des noms des jeux
 namesSteam = steam.loc[:, "name"].copy()
